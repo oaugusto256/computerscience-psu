@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14200\viewh15080\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Design #1\
+Author: Alves Silva, Otavio Augusto\
+Date: 04/19/2015\
+CS 163 - Program #1\
+\
+\pard\pardeftab720\sa240
+\cf0 \expnd0\expndtw0\kerning0
+1) How well did the data structure selected perform for the assigned application?\
+The data structure selected for this assignment was able to achieve a part of the objective that was assigned. One of these has the following command: organizes a list of a furniture parts by reading a .txt file by the number part. Therefore, the code was able to organize a list in ascending order from a totally disorganized text regardless of the order of the parties concerned as well as it was capable to find and see a single part in the list to see the characteristics(Part number, description, amount, steps) of it. The ADT complete the most important parts of this assignment, which were the creation of classes and ADT to manage the data in a organized away.\
+2) Would a different data structure work better? If so, which one and why ?\
+I created a class Part for this assignment, but a struct could be better. However, I didn\'92t choose this one because I had done some exercises using a class, so it would be more easier to me. The use of a struct would be more easier to create the code because his structure is more easier than the complexity of a new ADT with a big amount of variables and because his members are public, we don\'92t need to create a function to retrieve the data. Therefore the assignment could have been more easily implemented.\
+3) What was efficient about your design and use of the data structure?\
+My ADT has all the minimum requirements and design to be considered efficient. It is able to be replaced without affecting the client program directly and has the operations for this, which are insert, display, find, copy information and etc. The algorithm to order the parts in the list is totally able to work in different away like: If the list is empty, if the next part has to be in the first position, if the next part has to be in the final of the list or in the last position. Therefore, the code even as the algorithm were able to achieve the objective.\
+4) What was not efficient?\
+I could not implement a list with step with the parts that was . I didn\'92t find a away to do it. As well as I could use a tail pointer to help me add at the final of the list without going until the last node to see that the node had to be there.\
+5) What would you do differently if you had more time to solve the problem? \
+I would change my away that I implemented my part data structure. Now I see that the implementation of a structure could have facilitated the resolution of the problem and spared long enough for me to try to find a way to implement the phase of a list by steps.
+\f1 \
+}

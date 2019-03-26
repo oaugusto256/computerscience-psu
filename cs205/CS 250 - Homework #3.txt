@@ -1,0 +1,21 @@
+Week 3 - Oct 13
+
+
+Readings:Text 2.4
+
+Homework:2.4 2bdf, 3bd.
+
+Objectives:Countability, uncountable sets, diagonalization technique.
+
+
+Readings:Text 3.1
+Homework:3.1 2bdf, 6bdj, 7bd, 10bdh, 14, 18b.
+
+Objectives:Inductively defined set.
+
+
+Readings:Text 3.2
+
+Homework:3.2 4bd, 6bd, 7bf, 10b, 13, 19b.
+
+Objectives:Recursively defined function.

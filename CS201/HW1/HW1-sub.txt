@@ -1,0 +1,30 @@
+TO CS-201 STUDENTS:
+
+Please follow these instructions exactly. The grader will have a lot of programs to test and you want to make sure he or she can run your program successfully.
+
+Our grader will be compiling and executing these on the PSU Linux machines so make sure it works there before submitting.
+
+Create a makefile to compile your program.
+
+Call your program
+	typing_word_game.c
+
+Call the executable
+	typing_word_game
+
+Then create a tar file containing your source code and the makefile.
+
+Email the tar file to:
+	ereed@gmail.com
+
+The subject line of the email should be:
+	CS201, HW1, <yourname>
+where <yourname> is your name as it appears in the PSU registration system.
+
+Send your email only once. Refrain from sending additional emails asking whether the grader got your email or sending it multiple times. In the case of multiple emails, the grader will grade the FIRST submission. So please make sure the first email is correct.
+
+Please copy yourself on the email, just in case there is a question later about anything.
+
+Thanks!
+
+Prof. Harry Porter
