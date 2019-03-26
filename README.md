@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Project to let open source all homework, assignments, programs and everything built at my sandwich program, Computer Science, at PSU(Portland State University).
+Project to open all homework, assignments, programs and everything built at my sandwich program that were related with programming or software engineer, Computer Science, at PSU(Portland State University).
 
 ## Installation and using
 
